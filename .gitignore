@@ -1,0 +1,8 @@
+/build-profile.json5
+/.hvigor/
+/.hvigor-user/
+/node_modules/
+/entry/build/
+/build/
+/local.properties
+/.idea/

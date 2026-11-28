@@ -1,0 +1,8 @@
+{
+  "modelVersion": "6.0.0",
+  "name": "lx-music-harmony",
+  "version": "0.1.0",
+  "description": "曲间拾声 · HarmonyOS",
+  "dependencies": {},
+  "devDependencies": {}
+}
